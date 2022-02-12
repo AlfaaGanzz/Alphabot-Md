@@ -547,6 +547,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ DikaArdnt
 ├ Mhankbarbar
 ├ Nurutomo
+├ X-Faa
 ├ Rashid
 ├ ZeeoneOfc
 ├ Penyedia Module
@@ -1097,6 +1098,7 @@ exports.tqto = () =>{
 • Mhankbarbar
 • Nurutomo
 • Rashid
+• X-Faa
 • ZeeoneOfc
 • Penyedia Module
 • And All Support
